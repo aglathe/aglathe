@@ -9,11 +9,11 @@ My main tech stack is React + Typescript + Tailwind. Through work experience, I 
 
 I don't have many public repos, but starting this Readme is also a way to start working more regularly on these big ideas I mentioned above - with public repos.
 
-##Fun Facts
-<li>
-  <ul>the main game I am emotionally invested in is Genshin Impact</ul>
-  <ul>I only ever drink sparkling water</ul>
-</li>
+## Fun Facts
+<ul>
+  <li>the main game I am emotionally invested in is Genshin Impact</li>
+  <li>I only ever drink sparkling water</li>
+</ul>
 
 
 <!--
